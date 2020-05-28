@@ -1,14 +1,2 @@
-Esta es la historia de Victor Rodriguez
-Victor nacio en 1998 en CDMX y desde ese momento 
-el estaba predestinado a convertirse en millonario 
-
-Hoy hablaremos de su historia.
-
-Ademas cabe mencionar que es guapo
-<<<<<<< HEAD
-Est debe aparecer si estoy en MASTER
-=======
-Y sin mencionar que es sabio
-Agregue una nueva linea para probar el nuevo comando 
-El cambio es por la nueva rama, veamos el comportamiento
->>>>>>> new_branch
+Inicimiemos de nuevo y veremos que sucede
+ahora que estamos utilizando GithuB 
