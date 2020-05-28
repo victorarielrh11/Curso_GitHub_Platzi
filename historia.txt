@@ -5,5 +5,4 @@ el estaba predestinado a convertirse en millonario
 Hoy hablaremos de su historia.
 
 Ademas cabe mencionar que es guapo
-Y sin mencionar que es sabio
-Agregue una nueva linea para probar el nuevo comando 
+Est debe aparecer si estoy en MASTER
